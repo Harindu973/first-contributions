@@ -38,6 +38,8 @@
 - [Estevao Moreno](https://github.com/estevaoTm)
 - [Harsh Gahlot](https://github.com/Euno257)
 - [Nishant Mittal](https://github.com/nishantmittal59)
+
+
 - [Moira McAulay](https://github.com/m-mcaulay)
 - [Anuj Kharbanda] (https://github.com/Anuj2711)
 - [Akshay Solanki](https://github.com/AkshayS96)
@@ -7511,7 +7513,7 @@ Orandi Harris
 - [Connor Bottum](https://github.com/cbb692)
 - [Amandeep Saluja](https://github.com/amandeep-saluja)
 - [Brandon Thompson](https://github.com/roric32)
-- [Electric Keet](https://github.com/electrickeet)
+- [Electric Keet](https://github.com/electrickeet)
 - [Yannick De Jonghe](https://github.com/yadejo)
 - [Joshua Jarvis](https://github.come/bynarlogic)
 - [Rachna Pathak](https://github.com/rachnapathak)
@@ -8232,3 +8234,4 @@ Orandi Harris
 - [Luis Espinal](https://github.com/lespinalrivera)
 - [Grant Fogle](https://github.com/grantfogle)
 - Harindu Lakshan
+- Sewwandi Lakshaika
